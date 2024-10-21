@@ -2,4 +2,5 @@
 void main()
 {
 printf("n");
+  scanf("%d",&n);
 }
